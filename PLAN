@@ -1,0 +1,14 @@
+What we will use 
+* lodash (debounce)- npm install lodash - when we search smth in API, need to search less
+* context
+* Router - npm install react-router-dom
+* ui material - npm install @mui/material @emotion/react @emotion/styled
+* axios - npm install axios
+* fetching an API
+  * https://www.edamam.com/
+
+ ----------------------------
+-reducer - box of function???
+
+Requirements
+* 
